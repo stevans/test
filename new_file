@@ -4,3 +4,5 @@ def now():
   print 'i just added this line from my laptop'
 
   print 'I want to make a change to new branch only'
+
+  print 'change of new branch only'
