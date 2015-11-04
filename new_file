@@ -1,2 +1,4 @@
 def now():
   print 'test code'
+
+  print 'i just added this line from my laptop'
